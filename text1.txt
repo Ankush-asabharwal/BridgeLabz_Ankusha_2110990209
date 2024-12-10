@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi Main
+=======
+Hi Feature
+myself Ankusha Sabharwal currently doing git 
+>>>>>>> feature4
