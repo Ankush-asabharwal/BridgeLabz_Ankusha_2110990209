@@ -1,7 +1,5 @@
 # BridgeLabz
 
-# BridgeLabz
-
 9 Dec, 2024
 Topics Covered:-
 1. Git branch
