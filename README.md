@@ -18,6 +18,9 @@ Topics Covered:-
 
 11 Dec, 2024
 Topics Covered:-
+1.Combine and pull request
+2.Git rebase
+3.Orphan Branch
 
                 
                  
