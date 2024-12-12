@@ -1,15 +1,26 @@
-# BridgeLabz
+### BridgeLabz
 
-9 Dec, 2024
-Topics Covered:- 1. Git branch
-                 2. Git Status
-                 3. Git CheckOut
-                 4. Tracked/Untracked Files
-                 5. .gitignore
+#### 10 Dec, 2024
 
-10 Dec, 2024
-Topics Covered:- 1. Git Merge
-                 2. To clone the other Branch
-                 3. Git pull
-                 4. Git fetch
-                 5. Git Stash
+**Commands:**
+
+- **Git Merge**:  
+  a. `git merge branch`  
+
+- **Git Clone**:  
+  a. `git clone <repo-url>`
+  b. `git clone -b <branch-name> <repo-url>`  
+
+- **Git Pull**:  
+  a. `git pull`  
+  b. `git pull origin <branch-name>`  
+
+- **Git Fetch**:  
+  a. `git fetch`  
+  b. `git fetch origin <branch-name>`  
+
+- **Git Stash**:  
+  a. `git stash`
+  b. `git stash push -m "Mesaage"` 
+  c. `git stash list`
+  d. `git stash pop`
