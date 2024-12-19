@@ -36,4 +36,12 @@
 3. Pass by Value
 4. Pass by Reference  
                  
-               
+## 17 Dec, 2024
+1. Explore more on pointers.
+2. Learn about signed and unsigned operators.
+3. Solve basic problems on pointers.               
+
+## 18 Dec, 2024
+1. Learn about random functions in C++ like rand() and srand().
+2. Also understand why we use time with srand().
+3. Learn basic concepts about strings.
