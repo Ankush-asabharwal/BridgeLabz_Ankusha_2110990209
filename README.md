@@ -45,3 +45,29 @@
 1. Learn about random functions in C++ like rand() and srand().
 2. Also understand why we use time with srand().
 3. Learn basic concepts about strings.
+
+## 19 Dec, 2024
+1. Basic functions of Vectors
+2. Arrays
+3. Inline and Constexpr functions
+
+## 20 Dec, 2024
+1. Exception Handling
+2. Memory Management
+3. Understand the working of ATM Bank
+
+## 21 Dec, 2024
+1. Learning Basic OOPs Fundamentals
+
+## 22 Dec, 2024
+1. Practicing the employee wage application
+
+## 23 Dec, 2024
+1. Practicing Line Comparison Problem
+
+## 24 Dec, 2024
+1. Objects and Class
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+5. Encapsulation
