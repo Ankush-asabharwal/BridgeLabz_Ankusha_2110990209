@@ -71,3 +71,28 @@
 3. Polymorphism
 4. Abstraction
 5. Encapsulation
+
+## 25 Dec, 2024
+1. Access Specifiers
+2. Method Overloading
+3. Operator Overloading
+4. Method Overriding
+5. Multiple Inheritance
+
+## 26 Dec, 2024
+1. Abstract Classes
+2. Constructor
+3. Destructor
+4. Copy Constructor
+
+## 6 Jan, 2025
+1. Working on Chess Game
+2. Design Format according to the problem
+
+## 7 Jan, 2025
+1. Working on the functionality of pawn
+2. Checking is the move valid
+
+## 8 Jan, 2025
+1. Make logical function of rook, knight, bishop, king, Queen
+2. Make the function Checkmate
